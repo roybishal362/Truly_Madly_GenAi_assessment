@@ -1,0 +1,14 @@
+# Core dependencies
+streamlit
+python-dotenv
+
+# LangChain and Groq
+langchain
+langchain-groq
+langchain-core
+
+# Pydantic for structured outputs
+pydantic
+
+# API requests
+requests
